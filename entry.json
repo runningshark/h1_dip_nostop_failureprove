@@ -1,0 +1,28 @@
+{
+ "module": "s09_h_dip_nostop",
+ "params": {},
+ "grid": [
+  {},
+  {
+   "tp": 2.0
+  },
+  {
+   "tp": 3.0
+  },
+  {
+   "max_hold": 72
+  },
+  {
+   "max_hold": 336
+  },
+  {
+   "drop": 4.0
+  },
+  {
+   "rsi": 25
+  },
+  {
+   "short": 1
+  }
+ ]
+}
